@@ -3,12 +3,14 @@
 recreation of https://boardgamegeek.com/thread/1385646/complete-rules-circular-reasoning 
 using pygame because it's sold out a lot... (rules there)
 
+```
 usage: python3 circoo.py <players> <keyboard_mode>
   players: 2, 3, or 4
   keyboard_mode:
-    1, possible moves are shown, press the letter to move
-    0, they are not, click where you want to move, if it's legal it will move
-  
+    1: possible moves are shown, press the letter to move
+    0: they are not, click where you want to move, if it's legal it will move
+```  
+
 player order is in top middle
 
 current player color is shown in middle
