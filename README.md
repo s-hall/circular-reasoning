@@ -1,6 +1,7 @@
 # circular-reasoning
 
-recreation of <> using pygame because it's sold out a lot... (rules there)
+recreation of https://boardgamegeek.com/thread/1385646/complete-rules-circular-reasoning 
+using pygame because it's sold out a lot... (rules there)
 
 usage: python3 circoo.py <players> <keyboard_mode>
   players: 2, 3, or 4
@@ -18,7 +19,6 @@ do the move based on keyboard_mode
 pieces return to corner with a black dot when they are completed
 
 "u" to undo, can only undo within the round, might be a little buggy with keyboard_mode = 0
-
 
 circoo.py is an object oriented refactoring of circ.py
 it has more features like undo and <keyboard_mode>
