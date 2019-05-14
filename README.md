@@ -7,7 +7,7 @@ using pygame (pip3 install pygame) because it's sold out a lot... (rules there)
 usage: python3 circoo.py <players> <keyboard_mode>
   players: 2, 3, or 4
   keyboard_mode:
-    1: possible moves are shown, press the letter to move
+    1: possible moves are shown, press the letter to move (recommended)
     0: they are not, click where you want to move, if it's legal it will move
 ```  
 
