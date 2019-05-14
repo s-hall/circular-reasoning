@@ -1,7 +1,7 @@
 # circular-reasoning
 
 recreation of https://boardgamegeek.com/thread/1385646/complete-rules-circular-reasoning 
-using pygame because it's sold out a lot... (rules there)
+using pygame (pip3 install pygame) because it's sold out a lot... (rules there)
 
 ```
 usage: python3 circoo.py <players> <keyboard_mode>
